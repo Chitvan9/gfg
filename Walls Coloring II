@@ -81,3 +81,4 @@ int N = costs.length;
         return prevMinCost;
 	}
 }
+}
